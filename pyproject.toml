@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "aaa-async-homework"
+name = "aaa-python-async"
 version = "0.1.0"
 description = ""
 authors = ["Vladimir Olokhtonov <volokhtonov@ozon.ru>"]
